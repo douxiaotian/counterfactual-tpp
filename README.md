@@ -1,3 +1,6 @@
+# Great code, very easy to run! But not sure how to process the output yet.
+
+
 # counterfactual-tpp
 This is a repository containing code and real data for the paper [Counterfactual Temporal Point Processes](https://arxiv.org/abs/2111.07603).
 ## Pre-requisites
